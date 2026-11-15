@@ -1,0 +1,18 @@
+{
+  "_doc": "Formules. Relevé le 2026-11-15 sur la story « MENU » (« Krush formule 25,00 € », marquée « nouvelle formule ») et les légendes Instagram : valable en semaine, le week-end et les jours fériés. courses : chaque étape et les plats au choix (identifiants de data/menu.json, ou texte libre pour les boissons). Pour ajouter une formule (enfant, groupe…) : copiez le bloc.",
+  "checked": "2026-11-15",
+  "items": [
+    {
+      "id": "krush",
+      "price": 25,
+      "fr": { "name": "Formule Krush", "when": "Tous les jours, en semaine comme le week-end, jours fériés compris", "note": "Matcha, ube et golden : +1 €" },
+      "en": { "name": "The Krush set brunch", "when": "Every day, weekdays and weekends, bank holidays included", "note": "Matcha, ube and golden latte: +€1" },
+      "courses": [
+        { "id": "sale", "fr": "1 plat salé", "en": "1 savoury plate", "choices": ["focaccia-avocado", "egg-muffin", "krush-benedicte", "krush-dog"] },
+        { "id": "sucre", "fr": "1 plat sucré", "en": "1 sweet plate", "choices": ["cookie", "brioche-carrement-vanille", "granola", "pancakes-gourmands"] },
+        { "id": "chaud", "fr": "1 boisson chaude", "en": "1 hot drink", "text": { "fr": "Café noir, café au lait, boisson lactée, thé vert ou infusion bio", "en": "Black coffee, white coffee, milky drink, green tea or organic infusion" } },
+        { "id": "frais", "fr": "1 boisson fraîche", "en": "1 cold drink", "text": { "fr": "Citronnade, thé glacé maison, oranges pressées ou orange pamplemousse", "en": "Lemonade, home-made iced tea, fresh orange juice or orange and grapefruit" } }
+      ]
+    }
+  ]
+}

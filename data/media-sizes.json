@@ -1,0 +1,150 @@
+{
+ "/media/hero/hero-table.jpg": [
+  720,
+  1280
+ ],
+ "/media/hero/hero.jpg": [
+  1440,
+  1800
+ ],
+ "/media/sale/egg-muffin.jpg": [
+  1280,
+  1600
+ ],
+ "/media/sale/focaccia-avocado.jpg": [
+  1280,
+  1600
+ ],
+ "/media/sale/korean-krush.jpg": [
+  1200,
+  1600
+ ],
+ "/media/sale/krush-batata.jpg": [
+  1280,
+  1600
+ ],
+ "/media/sale/krush-benedicte.jpg": [
+  1280,
+  1600
+ ],
+ "/media/sale/krush-dog.jpg": [
+  1280,
+  1600
+ ],
+ "/media/sale/krush-pancakes.jpg": [
+  1280,
+  1600
+ ],
+ "/media/sale/moroccan-style.jpg": [
+  1200,
+  1600
+ ],
+ "/media/sucre/brioche-carrement-vanille.jpg": [
+  1280,
+  1600
+ ],
+ "/media/sucre/brioche-vanille-terrasse.jpg": [
+  1440,
+  960
+ ],
+ "/media/sucre/cookie.jpg": [
+  720,
+  1280
+ ],
+ "/media/sucre/granola.jpg": [
+  720,
+  1280
+ ],
+ "/media/sucre/pancakes-fruits-rouges.jpg": [
+  1280,
+  1600
+ ],
+ "/media/sucre/pancakes-gourmands.jpg": [
+  1280,
+  1600
+ ],
+ "/media/boissons/chocolat-viennois.jpg": [
+  900,
+  1600
+ ],
+ "/media/boissons/latte-barbe-a-papa.jpg": [
+  1280,
+  1600
+ ],
+ "/media/boissons/latte-brownie.jpg": [
+  1200,
+  1600
+ ],
+ "/media/boissons/latte-popcorn.jpg": [
+  1280,
+  1600
+ ],
+ "/media/boissons/matcha-latte.jpg": [
+  1280,
+  1600
+ ],
+ "/media/boissons/smoothie-red-lover.jpg": [
+  1200,
+  1600
+ ],
+ "/media/salle-terrasse/facade.jpg": [
+  900,
+  1600
+ ],
+ "/media/salle-terrasse/neon.jpg": [
+  1280,
+  1600
+ ],
+ "/media/salle-terrasse/salle-neon.jpg": [
+  1281,
+  1600
+ ],
+ "/media/salle-terrasse/table-salle.jpg": [
+  1280,
+  1600
+ ],
+ "/media/salle-terrasse/table.jpg": [
+  1280,
+  1600
+ ],
+ "/media/salle-terrasse/terrasse-assiette.jpg": [
+  1280,
+  1600
+ ],
+ "/media/galerie/g1-table-dessus.jpg": [
+  640,
+  1136
+ ],
+ "/media/galerie/g2-focaccia.jpg": [
+  900,
+  1600
+ ],
+ "/media/galerie/g3-korean.jpg": [
+  806,
+  807
+ ],
+ "/media/galerie/g4-gaufre.jpg": [
+  720,
+  1280
+ ],
+ "/media/galerie/g5-fraises.jpg": [
+  640,
+  1136
+ ],
+ "/media/galerie/g6-pancakes-glace.jpg": [
+  640,
+  1136
+ ],
+ "/media/galerie/g7-habibi.jpg": [
+  1279,
+  1160
+ ],
+ "/media/galerie/g8-deux-assiettes.jpg": [
+  640,
+  1136
+ ],
+ "/media/galerie/g9-pancakes-fruits.jpg": [
+  1280,
+  1600
+ ]
+}

@@ -1,0 +1,24 @@
+{
+  "_doc": "Horaires (heure de Paris). 1 = lundi … 7 = dimanche. closures : fermetures sur une période (vacances d'août…), from / to inclus (AAAA-MM-JJ) ; pendant la période, le site affiche « Fermé » et le bandeau du haut l'annonce. exceptions : un jour particulier, « closed » ou des créneaux. Le statut « Ouvert / Fermé » en direct en dépend. Relevé le 2026-11-15 sur sa bio Instagram.",
+  "timezone": "Europe/Paris",
+  "week": {
+    "1": [["10:00", "15:30"]],
+    "2": [["10:00", "15:30"]],
+    "3": [["10:00", "15:30"]],
+    "4": [["10:00", "15:30"]],
+    "5": [["10:00", "15:30"]],
+    "6": [["09:00", "17:00"]],
+    "7": [["09:00", "17:00"]]
+  },
+  "closures": [
+    {
+      "id": "aout-2027",
+      "from": "2027-08-01",
+      "to": "2027-08-27",
+      "_doc": "Dates à confirmer : en 2026, Krush a fermé tout le mois d'août et rouvert le samedi 29 août.",
+      "fr": "Krush est en vacances du 1er au 27 août. On se retrouve le samedi 28 août.",
+      "en": "Krush is on holiday from 1 to 27 August. See you again on Saturday 28 August."
+    }
+  ],
+  "exceptions": []
+}

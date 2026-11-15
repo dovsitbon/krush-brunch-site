@@ -1,0 +1,320 @@
+{
+  "meta": {
+    "title": "Halal brunch every day in Paris 15, rue de la Convention | Krush",
+    "description": "Krush serves halal brunch every day at 4 rue de la Convention (Paris 15, Javel metro). €25 set brunch: savoury, sweet, two drinks. No booking needed.",
+    "ogAlt": "Krush brunch table seen from above: fried eggs, avocado, red berries"
+  },
+  "nav": {
+    "skip": "Skip to content",
+    "home": "home",
+    "main": "Main navigation",
+    "menu": "Menu",
+    "formule": "Set brunch",
+    "groupes": "Groups",
+    "infos": "Visit",
+    "seeMenu": "See the menu",
+    "directions": "Directions",
+    "lang": "Language",
+    "openMenu": "Open menu",
+    "close": "Close",
+    "instagram": "Krush on Instagram"
+  },
+  "announce": { "close": "Close the banner" },
+  "intro": { "skip": "Skip", "tagline": "BRUNCH EVERYDAY" },
+  "status": {
+    "open": "Open now",
+    "closed": "Closed right now",
+    "until": "until {time}",
+    "opens": "opens {day} at {time}",
+    "today": "today",
+    "tomorrow": "tomorrow"
+  },
+  "hero": {
+    "eyebrow": "Brunch every day · Halal · Paris 15",
+    "title": "Brunch, every single day",
+    "sub": "Home-made focaccia, organic eggs, French-toast brioche and fresh juice. No booking, Monday to Sunday, on rue de la Convention.",
+    "alt": "Brunch table seen from above: fried eggs, avocado, salad and red berries"
+  },
+  "rating": {
+    "label": "{value}/5 on Google",
+    "count": "{count} reviews",
+    "aria": "Google rating {value} out of 5, {count} reviews",
+    "followers": "{n} followers on Instagram"
+  },
+  "tiles": {
+    "title": "What people come to Krush for",
+    "items": {
+      "formule": { "label": "€25 set brunch", "sub": "Savoury, sweet, two drinks" },
+      "sale": { "label": "Savoury", "sub": "Toasts, focaccia, eggs" },
+      "sucre": { "label": "Sweet", "sub": "French toast, pancakes, granola" },
+      "boissons": { "label": "Drinks & juice", "sub": "Lattes, fresh juice, smoothies" },
+      "cookies": { "label": "Cookies & treats", "sub": "Warm cookie, vanilla custard" }
+    }
+  },
+  "services": {
+    "title": "Krush in four words",
+    "items": [
+      { "id": "everyday", "title": "Every day", "text": "Weekdays 10 am to 3:30 pm, weekends 9 am to 5 pm." },
+      { "id": "halal", "title": "100% halal", "text": "The whole menu, from Korean chicken to bacon." },
+      { "id": "nobooking", "title": "No booking", "text": "Just walk in. At weekends, come early." },
+      { "id": "terrace", "title": "Terrace", "text": "On rue de la Convention. Air-conditioned room in summer." }
+    ]
+  },
+  "formule": {
+    "eyebrow": "The set brunch",
+    "title": "Savoury and sweet, for €25",
+    "text": "No need to choose: one savoury plate, one sweet plate, a hot drink and a cold drink.",
+    "choices": "Your pick",
+    "or": "or",
+    "cta": "See the menu"
+  },
+  "menu": {
+    "eyebrow": "The menu",
+    "title": "The menu",
+    "intro": "Everything is served every day, à la carte or as part of the set brunch. Prices are the ones on the menu in the restaurant.",
+    "tabsLabel": "Menu sections",
+    "tabs": { "formule": "Set brunch", "sale": "Savoury", "sucre": "Sweet", "boissons": "Drinks" },
+    "signature": "House favourite",
+    "meatless": "Meat-free",
+    "inFormula": "In the set brunch",
+    "noPrice": "Price to be confirmed",
+    "seeFull": "Full menu",
+    "priceNote": "Prices in euros, service included. Allergies: ask the team, they know every plate.",
+    "photoSoon": "Photo coming soon"
+  },
+  "blocks": {
+    "sale": {
+      "eyebrow": "Savoury",
+      "title": "The focaccia is made here",
+      "text": "Soft, with olive oil, topped with guacamole and beetroot hummus. On the side: feta, fig and red berries. The eggs are organic and local.",
+      "alt": "Avocado focaccia toast: guacamole, beetroot hummus and edible flowers"
+    },
+    "sucre": {
+      "eyebrow": "Sweet",
+      "title": "Seriously vanilla",
+      "text": "French-toast brioche, vanilla cream, fresh raspberries and caramelised almonds. The home-made custard comes on the side, so you pour it yourself.",
+      "alt": "Seriously Vanilla brioche with raspberries and caramelised almonds"
+    },
+    "terrasse": {
+      "eyebrow": "The terrace",
+      "title": "A table in the sun",
+      "text": "The terrace looks onto rue de la Convention, two minutes from Javel station. Inside: the pink neon and a cool room in summer.",
+      "alt": "Krush Brunch shopfront and terrace on rue de la Convention"
+    }
+  },
+  "groups": {
+    "eyebrow": "Groups and private hire",
+    "title": "Coming as a group?",
+    "intro": "Birthday, hen party, team breakfast: tell us the date and how many of you there are, and the team will get back to you to see what's possible.",
+    "noBooking": "You don't need to book a table: this form is only for groups and private hire, always subject to confirmation.",
+    "kinds": [
+      { "id": "birthday", "title": "Birthdays", "text": "One big table, the set brunch for everyone, and a cookie to share at the end." },
+      { "id": "evjf", "title": "Hen parties", "text": "A pink, indulgent brunch before the rest of the day." },
+      { "id": "company", "title": "Companies", "text": "A team breakfast or an end-of-week brunch, close to Javel and Beaugrenelle." }
+    ],
+    "cta": "Send a request",
+    "form": {
+      "title": "Your request",
+      "day": "Date",
+      "time": "Time",
+      "guests": "Number of guests",
+      "occasion": "Occasion",
+      "budget": "Budget per person",
+      "optional": "optional",
+      "budgetPh": "For example €25…",
+      "name": "Name",
+      "phone": "Phone",
+      "email": "Email",
+      "message": "Message",
+      "messagePh": "An allergy, a cake, a special wish…",
+      "submit": "Send request",
+      "sending": "Sending…",
+      "privacy": "Your details are only used to answer this request.",
+      "errors": {
+        "required": "This field is needed",
+        "phone": "Phone number looks incomplete",
+        "email": "Email address looks incomplete",
+        "day": "Pick a date in the future",
+        "time": "Pick a time",
+        "guests": "Between 2 and {max} guests",
+        "generic": "The request didn't go through. Try again, or message us on Instagram."
+      }
+    },
+    "occasions": { "birthday": "Birthday", "evjf": "Hen party", "company": "Company", "other": "Other" },
+    "done": {
+      "title": "Thank you, it's sent",
+      "text": "The team has your request and will reply soon. A copy has been sent to your email.",
+      "noMail": "Your request is ready, but automatic sending isn't set up yet. Send it to Krush on Instagram: the text is copied, just paste it.",
+      "wa": "Your request is ready: WhatsApp opens with the message, you just need to send it.",
+      "copy": "Copy the text",
+      "copied": "Text copied",
+      "insta": "Open Instagram",
+      "waCta": "Send on WhatsApp",
+      "again": "New request"
+    },
+    "mail": {
+      "subject": "Group request",
+      "title": "New group request",
+      "date": "Date",
+      "guests": "Guests",
+      "occasion": "Occasion",
+      "budget": "Budget per person",
+      "name": "Name",
+      "phone": "Phone",
+      "email": "Email",
+      "message": "Message",
+      "lang": "Guest's language",
+      "confirmSubject": "Krush Brunch: your group request",
+      "confirmIntro": "Hello {name},\n\nThank you for your message. Here is a summary of your request:",
+      "confirmOutro": "The team will get back to you soon to confirm what's possible.\n\nSee you soon at Krush,\n4 rue de la Convention, 75015 Paris"
+    }
+  },
+  "gallery": {
+    "eyebrow": "On Instagram",
+    "title": "Fresh out of the kitchen",
+    "cta": "Follow {handle}"
+  },
+  "reviews": {
+    "eyebrow": "What guests say",
+    "title": "{value}/5 on Google, {count} reviews",
+    "text": "What comes up most: generous plates, the focaccia, fresh orange juice, red berries, the brioche, egg muffins, cookies and the terrace.",
+    "slot": "Guest review coming soon",
+    "cta": "Read the Google reviews"
+  },
+  "infos": {
+    "eyebrow": "Visit",
+    "title": "Getting to Krush",
+    "address": "Address",
+    "access": "Getting here",
+    "accessText": "Metro line 10 and RER C, Javel – André Citroën station, a two-minute walk. Charles Michels metro (line 10) is ten minutes away.",
+    "hours": "Opening hours",
+    "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+    "closed": "Closed",
+    "noBooking": "No booking",
+    "noBookingText": "We don't take table bookings: first come, first served.",
+    "wait": "At weekends",
+    "waitText": "Late morning is the busiest time. Come at opening, 9 am, to get a table straight away.",
+    "payment": "Payment",
+    "map": "Map to Krush, 4 rue de la Convention",
+    "contact": "A question?",
+    "contactText": "Message us on Instagram, the team answers."
+  },
+  "faq": {
+    "eyebrow": "FAQ",
+    "title": "Before you come",
+    "items": [
+      { "q": "Do I need to book?", "a": "No. Krush works without bookings: come whenever you like during opening hours. At weekends, arriving at opening time saves you a wait." },
+      { "q": "Is it halal?", "a": "Yes, the whole menu is halal, meat and charcuterie included: Korean chicken, pulled beef, bacon, turkey lardons, poultry sausage." },
+      { "q": "Is brunch served on weekdays?", "a": "Yes, every day: Monday to Friday from 10 am to 3:30 pm, Saturday and Sunday from 9 am to 5 pm. The €25 set brunch too, bank holidays included." },
+      { "q": "Are there vegetarian dishes?", "a": "Yes: the avocado focaccia toast, the egg muffin, the Krush Benedict and all the sweet plates are meat-free. Tell the team about any allergies when you order." },
+      { "q": "Can we come as a group?", "a": "For a birthday, a hen party or a team, send a request with the Groups form. The team will reply to confirm what's possible." },
+      { "q": "Are there high chairs? Can I bring a pushchair?", "a": "Message Krush on Instagram before you come: the team will tell you how best to settle in with little ones." }
+    ]
+  },
+  "footer": {
+    "tagline": "Brunch, every day, on rue de la Convention.",
+    "hours": "Opening hours",
+    "weekdays": "Monday – Friday",
+    "weekend": "Saturday – Sunday",
+    "legal": "Legal notice",
+    "pages": "Pages",
+    "rights": "Krush Brunch"
+  },
+  "pages": {
+    "menu": {
+      "title": "The menu",
+      "metaTitle": "Krush brunch menu and prices, Paris 15 | €25 set brunch",
+      "metaDescription": "The full Krush menu: avocado focaccia, Korean Krush, egg muffin, Seriously Vanilla brioche, pancakes, lattes and fresh juice. €25 set brunch, halal, every day.",
+      "h1": "The Krush menu",
+      "intro": "Savoury, sweet, lattes and fresh juice: the whole menu with prices. Served every day, no booking."
+    },
+    "groupes": {
+      "title": "Groups and private hire",
+      "metaTitle": "Group brunch, birthdays and hen parties in Paris 15 | Krush",
+      "metaDescription": "Birthday, hen party or team breakfast at Krush, halal brunch on rue de la Convention (Paris 15). Send your request and the team will reply.",
+      "h1": "Groups and private hire"
+    },
+    "paris15": {
+      "title": "Brunch in Paris 15",
+      "metaTitle": "Brunch in Paris 15, every day, near Javel | Krush",
+      "metaDescription": "Brunch in the 15th arrondissement every day of the week: Krush, 4 rue de la Convention, Javel metro. €25 set brunch, halal, no booking, terrace.",
+      "h1": "Brunch in Paris 15, every day",
+      "intro": "In the 15th, many brunch spots only serve on Sundays. At Krush it's every day, on rue de la Convention, between Javel and Beaugrenelle.",
+      "sections": [
+        { "h": "At the end of rue de la Convention", "p": ["Krush is at number 4, two minutes from Javel – André Citroën station (metro 10 and RER C), near the Seine and Parc André-Citroën. Beaugrenelle is a ten-minute walk."] },
+        { "h": "Brunch on weekdays too", "p": ["Monday to Friday from 10 am to 3:30 pm, Saturday and Sunday from 9 am to 5 pm. Brunch on a Tuesday lunchtime between meetings? Absolutely."] },
+        { "h": "The €25 set brunch", "p": ["One savoury plate, one sweet plate, a hot drink and a cold drink. For example: avocado focaccia toast, Seriously Vanilla brioche, a latte and fresh orange juice."] },
+        { "h": "No booking, with a terrace", "p": ["No reservations: just walk in and sit down. At weekends, coming at opening time saves a wait. On sunny days, the terrace looks onto the street."] }
+      ]
+    },
+    "halal": {
+      "title": "Halal brunch in Paris",
+      "metaTitle": "Halal brunch in Paris, every day | Krush, Paris 15",
+      "metaDescription": "Krush, a 100% halal brunch in Paris 15: bacon, Korean chicken, pulled beef, turkey lardons. Open every day, €25 set brunch, no booking.",
+      "h1": "Halal brunch in Paris, every day",
+      "intro": "At Krush, the whole menu is halal. Not a separate option: the entire brunch, savoury and sweet.",
+      "sections": [
+        { "h": "Brunch classics, halal", "p": ["Krush pancakes with bacon, the Krush batata with turkey lardons, the Krush dog with poultry sausage: the dishes you thought were off-limits are on the menu."] },
+        { "h": "Recipes you'll only find here", "p": ["The Korean Krush (home-made waffle, Korean chicken, fried egg, hollandaise) and the Moroccan style (pulled beef, candied prunes, cumin, almonds) are the house's most-ordered plates."] },
+        { "h": "Every day, in the heart of Paris", "p": ["Open Monday to Sunday at 4 rue de la Convention in the 15th, Javel metro. No booking, with a €25 set brunch."] }
+      ]
+    },
+    "legal": {
+      "title": "Legal notice",
+      "metaTitle": "Legal notice | Krush Brunch",
+      "metaDescription": "Legal notice for the Krush Brunch website, 4 rue de la Convention, 75015 Paris.",
+      "h1": "Legal notice"
+    }
+  },
+  "legal": {
+    "editor": "Publisher",
+    "siret": "SIRET",
+    "director": "Publication director",
+    "host": "Hosting",
+    "photos": "Photos",
+    "photosText": "Photos by Krush, published on its Instagram account {handle}.",
+    "data": "Personal data",
+    "dataText": "The Groups form is only used to answer your request. Your details are never sold or used for anything else. To have them deleted, message Krush on Instagram. The site uses no analytics or advertising cookies.",
+    "toFill": "to be completed"
+  },
+  "notFound": { "title": "This page doesn't exist", "text": "But brunch is served every day.", "cta": "Back to the home page" },
+  "alt": {
+    "hero": "Brunch table seen from above: fried eggs, avocado, salad and red berries",
+    "hero-table": "Four brunch plates seen from above on a wooden table",
+    "focaccia-avocado": "Avocado focaccia toast: guacamole, beetroot hummus and edible flowers",
+    "korean-krush": "Korean Krush: waffle, Korean chicken, fried egg and guacamole",
+    "moroccan-style": "Moroccan style: brioche bun, pulled beef and fried egg",
+    "krush-dog": "Krush dog served with baby potatoes and salad",
+    "krush-batata": "Krush batata, baked potato topped with guacamole and beetroot hummus",
+    "egg-muffin": "Egg muffins with fried eggs, salad and red berries",
+    "krush-benedicte": "Krush Benedict: poached eggs, spinach and hollandaise",
+    "krush-pancakes": "Krush pancakes with fried eggs and halal bacon",
+    "brioche-carrement-vanille": "Seriously Vanilla brioche with raspberries and caramelised almonds",
+    "brioche-vanille-terrasse": "Vanilla French-toast brioche on a terrace table",
+    "pancakes-gourmands": "Indulgent pancakes with banana and chocolate",
+    "cookie": "Home-made chocolate and caramel cookie",
+    "granola": "Bowl of home-made granola with red berries",
+    "pancakes-fruits-rouges": "Stack of pancakes with red berries and banana",
+    "latte-brownie": "Brownie latte in a glass jar topped with brownie pieces",
+    "latte-popcorn": "Caramel latte topped with popcorn",
+    "latte-barbe-a-papa": "Pink candyfloss latte",
+    "matcha-latte": "Matcha latte with oat milk",
+    "smoothie-red-lover": "Red lover berry smoothie",
+    "chocolat-viennois": "Viennese hot chocolate poured into a cup",
+    "facade": "Krush Brunch shopfront and terrace on rue de la Convention",
+    "salle-neon": "The Krush dining room and its pink neon",
+    "neon": "The KRUSH neon sign on a stone wall",
+    "table-salle": "Table set with several brunch plates",
+    "terrasse-assiette": "Brunch plate on the terrace in front of the Krush Brunch sign",
+    "table": "Brunch plates on a table inside",
+    "g1-table-dessus": "Focaccia, pancakes and latte seen from above",
+    "g2-focaccia": "Avocado focaccia toast with edible flowers",
+    "g3-korean": "Close-up of the Korean Krush",
+    "g4-gaufre": "Black & White vanilla and chocolate waffle",
+    "g5-fraises": "Granola and a tower of fresh strawberries",
+    "g6-pancakes-glace": "Strawberry pancakes with an ice-cream cone",
+    "g7-habibi": "Krush Habibi with kunefe and pistachio",
+    "g8-deux-assiettes": "Two colourful brunch plates seen from above",
+    "g9-pancakes-fruits": "Red berry pancakes"
+  }
+}

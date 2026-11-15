@@ -1,0 +1,320 @@
+{
+  "meta": {
+    "title": "Brunch halal tous les jours à Paris 15, rue de la Convention | Krush",
+    "description": "Krush, brunch halal servi tous les jours au 4 rue de la Convention (Paris 15, métro Javel). Formule à 25 € : salé, sucré, deux boissons. Sans réservation.",
+    "ogAlt": "Table de brunch Krush vue de dessus : œufs au plat, avocat, fruits rouges"
+  },
+  "nav": {
+    "skip": "Aller au contenu",
+    "home": "accueil",
+    "main": "Navigation principale",
+    "menu": "Menu",
+    "formule": "Formule",
+    "groupes": "Groupes",
+    "infos": "Infos",
+    "seeMenu": "Voir le menu",
+    "directions": "Itinéraire",
+    "lang": "Langue",
+    "openMenu": "Ouvrir le menu",
+    "close": "Fermer",
+    "instagram": "Krush sur Instagram"
+  },
+  "announce": { "close": "Fermer le bandeau" },
+  "intro": { "skip": "Passer", "tagline": "BRUNCH EVERYDAY" },
+  "status": {
+    "open": "Ouvert maintenant",
+    "closed": "Fermé en ce moment",
+    "until": "jusqu'à {time}",
+    "opens": "ouvre {day} à {time}",
+    "today": "aujourd'hui",
+    "tomorrow": "demain"
+  },
+  "hero": {
+    "eyebrow": "Brunch tous les jours · Halal · Paris 15",
+    "title": "Le brunch, tous les jours",
+    "sub": "Focaccia maison, œufs bio, brioche perdue et jus pressés. Sans réservation, du lundi au dimanche, rue de la Convention.",
+    "alt": "Table de brunch vue de dessus : œufs au plat, avocat, salade et fruits rouges"
+  },
+  "rating": {
+    "label": "{value}/5 sur Google",
+    "count": "{count} avis",
+    "aria": "Note Google {value} sur 5, {count} avis",
+    "followers": "{n} abonnés sur Instagram"
+  },
+  "tiles": {
+    "title": "Ce qu'on vient manger chez Krush",
+    "items": {
+      "formule": { "label": "Formule 25 €", "sub": "Salé, sucré, deux boissons" },
+      "sale": { "label": "Salé", "sub": "Toasts, focaccia, œufs" },
+      "sucre": { "label": "Sucré", "sub": "Brioche perdue, pancakes, granola" },
+      "boissons": { "label": "Boissons & jus", "sub": "Lattes, jus pressés, smoothies" },
+      "cookies": { "label": "Cookies & douceurs", "sub": "Cookie chaud, crème anglaise" }
+    }
+  },
+  "services": {
+    "title": "Krush en quatre mots",
+    "items": [
+      { "id": "everyday", "title": "Tous les jours", "text": "En semaine de 10 h à 15 h 30, le week-end de 9 h à 17 h." },
+      { "id": "halal", "title": "100 % halal", "text": "Toute la carte, du poulet coréen au bacon." },
+      { "id": "nobooking", "title": "Sans réservation", "text": "On arrive, on s'installe. Le week-end, venez tôt." },
+      { "id": "terrace", "title": "Terrasse", "text": "Sur la rue de la Convention. Salle climatisée l'été." }
+    ]
+  },
+  "formule": {
+    "eyebrow": "La formule",
+    "title": "Salé et sucré, pour 25 €",
+    "text": "Plus besoin de choisir : un plat salé, un plat sucré, une boisson chaude et une boisson fraîche.",
+    "choices": "Au choix",
+    "or": "ou",
+    "cta": "Voir le menu"
+  },
+  "menu": {
+    "eyebrow": "La carte",
+    "title": "Le menu",
+    "intro": "Tout est servi tous les jours, à la carte ou dans la formule. Les prix sont ceux de sa carte en boutique.",
+    "tabsLabel": "Rubriques du menu",
+    "tabs": { "formule": "Formule", "sale": "Salé", "sucre": "Sucré", "boissons": "Boissons" },
+    "signature": "L'incontournable",
+    "meatless": "Sans viande",
+    "inFormula": "Dans la formule",
+    "noPrice": "Prix à confirmer",
+    "seeFull": "Tout le menu",
+    "priceNote": "Prix nets en euros, service compris. Allergies : demandez à l'équipe, elle connaît chaque assiette.",
+    "photoSoon": "Photo à venir"
+  },
+  "blocks": {
+    "sale": {
+      "eyebrow": "Le salé",
+      "title": "La focaccia est faite ici",
+      "text": "Moelleuse, à l'huile d'olive, couverte de guacamole et de houmous de betterave. À côté : feta, figue, fruits rouges. Les œufs sont bio et locaux.",
+      "alt": "Toast focaccia avocado : guacamole, houmous de betterave et fleurs comestibles"
+    },
+    "sucre": {
+      "eyebrow": "Le sucré",
+      "title": "Carrément vanille",
+      "text": "De la brioche perdue, une crème vanille, des framboises fraîches et des amandes caramélisées. La crème anglaise maison arrive à part, pour la verser vous-même.",
+      "alt": "Brioche Carrément Vanille aux framboises et amandes caramélisées"
+    },
+    "terrasse": {
+      "eyebrow": "La terrasse",
+      "title": "Une table au soleil",
+      "text": "La terrasse donne sur la rue de la Convention, à deux minutes du métro Javel. Dedans, le néon rose et une salle fraîche l'été.",
+      "alt": "Façade de Krush Brunch et sa terrasse rue de la Convention"
+    }
+  },
+  "groups": {
+    "eyebrow": "Groupes et privatisation",
+    "title": "Vous venez à plusieurs ?",
+    "intro": "Anniversaire, EVJF, petit-déjeuner d'équipe : dites-nous la date et le nombre de personnes, l'équipe revient vers vous pour voir ce qui est possible.",
+    "noBooking": "Pour une table, pas besoin de réserver : ce formulaire sert uniquement aux groupes et aux privatisations, toujours sous réserve de confirmation.",
+    "kinds": [
+      { "id": "birthday", "title": "Anniversaires", "text": "Une grande table, la formule pour tout le monde, un cookie à partager pour finir." },
+      { "id": "evjf", "title": "EVJF", "text": "Un brunch rose et gourmand avant la suite de la journée." },
+      { "id": "company", "title": "Entreprises", "text": "Un petit-déjeuner d'équipe ou un brunch de fin de semaine, près de Javel et de Beaugrenelle." }
+    ],
+    "cta": "Faire une demande",
+    "form": {
+      "title": "Votre demande",
+      "day": "Date",
+      "time": "Heure",
+      "guests": "Nombre de personnes",
+      "occasion": "Occasion",
+      "budget": "Budget par personne",
+      "optional": "facultatif",
+      "budgetPh": "Par exemple 25 €…",
+      "name": "Nom",
+      "phone": "Téléphone",
+      "email": "E-mail",
+      "message": "Message",
+      "messagePh": "Une allergie, un gâteau, une envie particulière…",
+      "submit": "Envoyer la demande",
+      "sending": "Envoi…",
+      "privacy": "Vos coordonnées servent uniquement à répondre à cette demande.",
+      "errors": {
+        "required": "Ce champ est nécessaire",
+        "phone": "Numéro de téléphone incomplet",
+        "email": "Adresse e-mail incomplète",
+        "day": "Choisissez une date à venir",
+        "time": "Choisissez une heure",
+        "guests": "Entre 2 et {max} personnes",
+        "generic": "La demande n'est pas partie. Réessayez, ou écrivez-nous sur Instagram."
+      }
+    },
+    "occasions": { "birthday": "Anniversaire", "evjf": "EVJF", "company": "Entreprise", "other": "Autre" },
+    "done": {
+      "title": "Merci, c'est envoyé",
+      "text": "L'équipe a bien reçu votre demande et vous répond rapidement. Une copie vous a été envoyée par e-mail.",
+      "noMail": "Votre demande est prête, mais l'envoi automatique n'est pas encore branché. Envoyez-la à Krush sur Instagram : le texte est copié, il suffit de le coller.",
+      "wa": "Votre demande est prête : WhatsApp s'ouvre avec le message, il ne reste qu'à l'envoyer.",
+      "copy": "Copier le texte",
+      "copied": "Texte copié",
+      "insta": "Ouvrir Instagram",
+      "waCta": "Envoyer sur WhatsApp",
+      "again": "Nouvelle demande"
+    },
+    "mail": {
+      "subject": "Demande de groupe",
+      "title": "Nouvelle demande de groupe",
+      "date": "Date",
+      "guests": "Personnes",
+      "occasion": "Occasion",
+      "budget": "Budget par personne",
+      "name": "Nom",
+      "phone": "Téléphone",
+      "email": "E-mail",
+      "message": "Message",
+      "lang": "Langue du client",
+      "confirmSubject": "Krush Brunch : votre demande de groupe",
+      "confirmIntro": "Bonjour {name},\n\nMerci pour votre message. Voici le récapitulatif de votre demande :",
+      "confirmOutro": "L'équipe revient vers vous rapidement pour confirmer ce qui est possible.\n\nÀ très vite chez Krush,\n4 rue de la Convention, 75015 Paris"
+    }
+  },
+  "gallery": {
+    "eyebrow": "Sur Instagram",
+    "title": "Ce qui sort de la cuisine",
+    "cta": "Suivre {handle}"
+  },
+  "reviews": {
+    "eyebrow": "Ils en parlent",
+    "title": "{value}/5 sur Google, {count} avis",
+    "text": "Ce qui revient le plus : les assiettes généreuses, la focaccia, le jus d'orange pressé, les fruits rouges, la brioche, les egg muffins, les cookies et la terrasse.",
+    "slot": "Avis client à venir",
+    "cta": "Lire les avis sur Google"
+  },
+  "infos": {
+    "eyebrow": "Infos pratiques",
+    "title": "Venir chez Krush",
+    "address": "Adresse",
+    "access": "Accès",
+    "accessText": "Métro ligne 10 et RER C, station Javel – André Citroën, à deux minutes à pied. Métro Charles Michels (ligne 10) à dix minutes.",
+    "hours": "Horaires",
+    "days": ["Lundi", "Mardi", "Mercredi", "Jeudi", "Vendredi", "Samedi", "Dimanche"],
+    "closed": "Fermé",
+    "noBooking": "Sans réservation",
+    "noBookingText": "On ne réserve pas de table : premier arrivé, premier servi.",
+    "wait": "Le week-end",
+    "waitText": "C'est l'heure de pointe en fin de matinée. Venez à l'ouverture, à 9 h, pour vous installer tout de suite.",
+    "payment": "Paiement",
+    "map": "Plan d'accès à Krush, 4 rue de la Convention",
+    "contact": "Une question ?",
+    "contactText": "Écrivez-nous sur Instagram, l'équipe répond aux messages."
+  },
+  "faq": {
+    "eyebrow": "Questions fréquentes",
+    "title": "Avant de venir",
+    "items": [
+      { "q": "Faut-il réserver ?", "a": "Non. Krush fonctionne sans réservation : vous venez quand vous voulez, aux heures d'ouverture. Le week-end, venir à l'ouverture évite d'attendre." },
+      { "q": "Est-ce que c'est halal ?", "a": "Oui, toute la carte est halal, viandes et charcuteries comprises : poulet coréen, bœuf effiloché, bacon, lardons de dinde, saucisse de volaille." },
+      { "q": "Le brunch est-il servi en semaine ?", "a": "Oui, tous les jours : du lundi au vendredi de 10 h à 15 h 30, le samedi et le dimanche de 9 h à 17 h. La formule à 25 € aussi, jours fériés compris." },
+      { "q": "Y a-t-il des plats végétariens ?", "a": "Oui : le toast focaccia avocado, l'egg muffin, la Krush bénédicte et tous les plats sucrés sont sans viande. Signalez vos allergies à l'équipe en commandant." },
+      { "q": "Peut-on venir en groupe ?", "a": "Pour un anniversaire, un EVJF ou une équipe, envoyez une demande avec le formulaire Groupes. L'équipe vous répond pour confirmer ce qui est possible." },
+      { "q": "Y a-t-il des chaises hautes ? Peut-on venir avec une poussette ?", "a": "Écrivez à Krush sur Instagram avant de venir : l'équipe vous dira comment vous installer au mieux avec les petits." }
+    ]
+  },
+  "footer": {
+    "tagline": "Le brunch, tous les jours, rue de la Convention.",
+    "hours": "Horaires",
+    "weekdays": "Lundi – vendredi",
+    "weekend": "Samedi – dimanche",
+    "legal": "Mentions légales",
+    "pages": "Pages",
+    "rights": "Krush Brunch"
+  },
+  "pages": {
+    "menu": {
+      "title": "Le menu",
+      "metaTitle": "Menu et prix du brunch Krush, Paris 15 | Formule 25 €",
+      "metaDescription": "Le menu complet de Krush : focaccia avocado, Korean Krush, egg muffin, brioche Carrément Vanille, pancakes, lattes et jus pressés. Formule à 25 €, halal, tous les jours.",
+      "h1": "Le menu de Krush",
+      "intro": "Salé, sucré, lattes et jus pressés : toute la carte, avec les prix. Servie tous les jours, sans réservation."
+    },
+    "groupes": {
+      "title": "Groupes et privatisation",
+      "metaTitle": "Brunch de groupe, anniversaire et EVJF à Paris 15 | Krush",
+      "metaDescription": "Anniversaire, EVJF ou petit-déjeuner d'entreprise chez Krush, brunch halal rue de la Convention (Paris 15). Envoyez votre demande, l'équipe vous répond.",
+      "h1": "Groupes et privatisation"
+    },
+    "paris15": {
+      "title": "Brunch à Paris 15",
+      "metaTitle": "Brunch à Paris 15, tous les jours, près de Javel | Krush",
+      "metaDescription": "Un brunch dans le 15e tous les jours de la semaine : Krush, 4 rue de la Convention, métro Javel. Formule à 25 €, halal, sans réservation, terrasse.",
+      "h1": "Un brunch à Paris 15, tous les jours",
+      "intro": "Dans le 15e, beaucoup de brunchs ne servent que le dimanche. Chez Krush, c'est tous les jours, rue de la Convention, entre Javel et Beaugrenelle.",
+      "sections": [
+        { "h": "Au bout de la rue de la Convention", "p": ["Krush est au numéro 4, à deux minutes de la station Javel – André Citroën (métro 10 et RER C), près des quais et du parc André-Citroën. Le quartier Beaugrenelle est à dix minutes à pied."] },
+        { "h": "Le brunch en semaine aussi", "p": ["Du lundi au vendredi de 10 h à 15 h 30, le samedi et le dimanche de 9 h à 17 h. Un brunch un mardi midi, entre deux rendez-vous, c'est possible."] },
+        { "h": "La formule à 25 €", "p": ["Un plat salé, un plat sucré, une boisson chaude et une boisson fraîche. Par exemple : toast focaccia avocado, brioche Carrément Vanille, un latte et des oranges pressées."] },
+        { "h": "Sans réservation, avec terrasse", "p": ["On ne réserve pas : on arrive, on s'installe. Le week-end, venir à l'ouverture évite d'attendre. Aux beaux jours, la terrasse donne sur la rue."] }
+      ]
+    },
+    "halal": {
+      "title": "Brunch halal à Paris",
+      "metaTitle": "Brunch halal à Paris, tous les jours | Krush, Paris 15",
+      "metaDescription": "Krush, brunch 100 % halal à Paris 15 : bacon, poulet coréen, bœuf effiloché, lardons de dinde. Ouvert tous les jours, formule à 25 €, sans réservation.",
+      "h1": "Un brunch halal à Paris, tous les jours",
+      "intro": "Chez Krush, toute la carte est halal. Pas une option à part : le brunch entier, salé comme sucré.",
+      "sections": [
+        { "h": "Les classiques du brunch, en halal", "p": ["Les Krush pancakes avec leur bacon, la Krush batata et ses lardons de dinde, le Krush dog et sa saucisse de volaille : les plats qu'on croit interdits sont à la carte."] },
+        { "h": "Des recettes qui ne viennent que d'ici", "p": ["Le Korean Krush (gaufre maison, poulet coréen, œuf au plat, hollandaise) et le Moroccan style (bœuf effiloché, pruneaux confits, cumin, amandes) sont les deux plats les plus demandés de la maison."] },
+        { "h": "Tous les jours, en plein Paris", "p": ["Ouvert du lundi au dimanche, au 4 rue de la Convention dans le 15e, métro Javel. Sans réservation, avec une formule à 25 €."] }
+      ]
+    },
+    "legal": {
+      "title": "Mentions légales",
+      "metaTitle": "Mentions légales | Krush Brunch",
+      "metaDescription": "Mentions légales du site de Krush Brunch, 4 rue de la Convention, 75015 Paris.",
+      "h1": "Mentions légales"
+    }
+  },
+  "legal": {
+    "editor": "Éditeur",
+    "siret": "SIRET",
+    "director": "Directeur de la publication",
+    "host": "Hébergement",
+    "photos": "Photos",
+    "photosText": "Photos de Krush, publiées sur son compte Instagram {handle}.",
+    "data": "Données personnelles",
+    "dataText": "Le formulaire Groupes ne sert qu'à répondre à votre demande. Les informations ne sont ni revendues ni utilisées à d'autres fins. Pour les faire effacer, écrivez à Krush sur Instagram. Le site n'utilise pas de cookies de mesure d'audience ni de publicité.",
+    "toFill": "à compléter"
+  },
+  "notFound": { "title": "Cette page n'existe pas", "text": "Mais le brunch, lui, est servi tous les jours.", "cta": "Retour à l'accueil" },
+  "alt": {
+    "hero": "Table de brunch vue de dessus : œufs au plat, avocat, salade et fruits rouges",
+    "hero-table": "Quatre assiettes de brunch vues de dessus sur une table en bois",
+    "focaccia-avocado": "Toast focaccia avocado : guacamole, houmous de betterave et fleurs comestibles",
+    "korean-krush": "Korean Krush : gaufre, poulet coréen, œuf au plat et guacamole",
+    "moroccan-style": "Moroccan style : bun brioché, bœuf effiloché et œuf au plat",
+    "krush-dog": "Krush dog servi avec pommes de terre grenaille et salade",
+    "krush-batata": "Krush batata, pomme de terre garnie de guacamole et de houmous de betterave",
+    "egg-muffin": "Egg muffins aux œufs au plat, salade et fruits rouges",
+    "krush-benedicte": "Krush bénédicte : œufs pochés, épinards et sauce hollandaise",
+    "krush-pancakes": "Krush pancakes, œufs au plat et bacon halal",
+    "brioche-carrement-vanille": "Brioche Carrément Vanille aux framboises et amandes caramélisées",
+    "brioche-vanille-terrasse": "Brioche perdue à la vanille sur une table en terrasse",
+    "pancakes-gourmands": "Pancakes gourmands à la banane et au chocolat",
+    "cookie": "Cookie maison au chocolat et caramel",
+    "granola": "Bol de granola maison aux fruits rouges",
+    "pancakes-fruits-rouges": "Pile de pancakes aux fruits rouges et à la banane",
+    "latte-brownie": "Latte brownie dans un pot en verre, morceaux de brownie dessus",
+    "latte-popcorn": "Latte au caramel garni de pop-corn",
+    "latte-barbe-a-papa": "Latte barbe à papa rose",
+    "matcha-latte": "Matcha latte au lait d'avoine",
+    "smoothie-red-lover": "Smoothie Red lover aux fruits rouges",
+    "chocolat-viennois": "Chocolat viennois versé dans une tasse",
+    "facade": "Façade de Krush Brunch et sa terrasse rue de la Convention",
+    "salle-neon": "La salle de Krush et son néon rose",
+    "neon": "Le néon KRUSH sur un mur de pierre",
+    "table-salle": "Table dressée avec plusieurs plats de brunch",
+    "terrasse-assiette": "Assiette de brunch en terrasse devant l'enseigne Krush Brunch",
+    "table": "Assiettes de brunch sur une table de la salle",
+    "g1-table-dessus": "Focaccia, pancakes et latte vus de dessus",
+    "g2-focaccia": "Toast focaccia avocado aux fleurs comestibles",
+    "g3-korean": "Gros plan sur le Korean Krush",
+    "g4-gaufre": "Gaufre Black & White vanille et chocolat",
+    "g5-fraises": "Granola et tour de fraises fraîches",
+    "g6-pancakes-glace": "Pancakes aux fraises et cornet de glace",
+    "g7-habibi": "Krush Habibi au kunefe et à la pistache",
+    "g8-deux-assiettes": "Deux assiettes de brunch colorées vues de dessus",
+    "g9-pancakes-fruits": "Pancakes aux fruits rouges"
+  }
+}

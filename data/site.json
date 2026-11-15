@@ -1,0 +1,59 @@
+{
+  "_doc": "Coordonnées et réglages généraux. rating / instagram : chiffres relevés à la main (mettre à jour value, count, followers et checked). phone : vide tant que le restaurant n'a pas donné de numéro (aucun numéro public). whatsapp : portable au format international sans + (ex. 33612345678) ; s'il est rempli, les demandes de groupe partent sur WhatsApp au lieu de l'e-mail. payment.enabled : paiement en ligne (bons cadeaux), désactivé par défaut. groups.enabled : groupes et privatisation, à confirmer avec lui. paymentMethods / halalCertification : à remplir (vide = non affiché).",
+  "name": "Krush",
+  "fullName": "Krush Brunch · Paris 15",
+  "url": "https://krush-brunch.vercel.app",
+  "phone": "",
+  "phoneIntl": "",
+  "whatsapp": "",
+  "email": "",
+  "address": {
+    "street": "4 rue de la Convention",
+    "postalCode": "75015",
+    "city": "Paris",
+    "region": "Île-de-France",
+    "country": "FR"
+  },
+  "geo": {
+    "lat": 48.8461,
+    "lng": 2.2798
+  },
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Krush+Brunch+4+rue+de+la+Convention+75015+Paris",
+  "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Krush+Brunch+4+rue+de+la+Convention+75015+Paris",
+  "mapsEmbed": "https://www.google.com/maps?q=Krush+Brunch,+4+rue+de+la+Convention,+75015+Paris&z=16&output=embed",
+  "instagram": "https://www.instagram.com/krush_brunch/",
+  "instagramHandle": "@krush_brunch",
+  "rating": {
+    "value": 4.2,
+    "count": 481,
+    "source": "Google",
+    "checked": "2026-11-15"
+  },
+  "followers": {
+    "value": 13200,
+    "checked": "2026-11-15"
+  },
+  "priceRange": "8–25 €",
+  "groups": {
+    "enabled": true,
+    "confirmed": false,
+    "maxGuests": 40,
+    "daysAhead": 180
+  },
+  "payment": {
+    "enabled": false,
+    "provider": "stripe",
+    "_doc": "Bons cadeaux plus tard : passer enabled à true et renseigner STRIPE_SECRET_KEY sur Vercel."
+  },
+  "legal": {
+    "company": "Krush Brunch",
+    "siret": "",
+    "director": "",
+    "host": "Vercel Inc., 440 N Barranca Ave #4133, Covina, CA 91723, États-Unis"
+  },
+  "paymentMethods": {
+    "fr": "",
+    "en": ""
+  },
+  "halalCertification": ""
+}

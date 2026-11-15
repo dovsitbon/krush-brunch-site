@@ -1,0 +1,145 @@
+{
+  "_doc": "La carte, relevée le 2026-11-15 sur la story à la une « MENU » de @krush_brunch (2 images). Les petits prix des boissons étaient écrits très petit : à confirmer avec Krush. price : en euros, null = « à remplir » (le site n'affiche alors pas de prix). photo : chemin dans public/media (vide = pas de photo). formula : le plat fait partie de la formule à 25 €. signature : marqué « L'incontournable » sur sa carte. meatless : sans viande d'après la composition (à confirmer pour les allergies). Pour ajouter un plat : copiez un bloc dans la bonne rubrique.",
+  "checked": "2026-11-15",
+  "garnish": {
+    "fr": "Les plats salés sont servis avec tomates, feta, figue, fruits rouges, noisettes torréfiées, graines de courge et salade.",
+    "en": "Savoury plates come with tomatoes, feta, fig, red berries, roasted hazelnuts, pumpkin seeds and salad."
+  },
+  "categories": [
+    {
+      "id": "sale",
+      "sections": [
+        {
+          "id": "plats-sales",
+          "fr": "Brunch salé",
+          "en": "Savoury brunch",
+          "items": [
+            { "id": "focaccia-avocado", "price": 14, "photo": "/media/sale/focaccia-avocado.jpg", "formula": true, "meatless": true, "fr": { "name": "Toast focaccia avocado", "desc": "Focaccia maison, guacamole, houmous de betterave, ciboulette" }, "en": { "name": "Avocado focaccia toast", "desc": "Home-made focaccia, guacamole, beetroot hummus, chives" } },
+            { "id": "egg-muffin", "price": 14, "photo": "/media/sale/egg-muffin.jpg", "formula": true, "meatless": true, "fr": { "name": "Egg muffin", "desc": "Muffins toastés, cheddar, avocat, œufs au plat bio et locaux, ciboulette, sauce hollandaise" }, "en": { "name": "Egg muffin", "desc": "Toasted muffins, cheddar, avocado, organic local fried eggs, chives, hollandaise" } },
+            { "id": "krush-benedicte", "price": 14, "photo": "/media/sale/krush-benedicte.jpg", "formula": true, "meatless": true, "fr": { "name": "Krush bénédicte", "desc": "Bun brioché, épinards, œuf poché, cheddar, ciboulette, sauce hollandaise" }, "en": { "name": "Krush Benedict", "desc": "Brioche bun, spinach, poached egg, cheddar, chives, hollandaise" } },
+            { "id": "krush-dog", "price": 14, "photo": "/media/sale/krush-dog.jpg", "formula": true, "fr": { "name": "Krush dog", "desc": "Pain brioché, béchamel moutarde, saucisse de volaille, oignons caramélisés, cheddar, pommes de terre grenaille, guacamole, sauce barbecue et yellow sauce" }, "en": { "name": "Krush dog", "desc": "Brioche bun, mustard béchamel, poultry sausage, caramelised onions, cheddar, baby potatoes, guacamole, barbecue and yellow sauce" } },
+            { "id": "krush-pancakes", "price": 14, "photo": "/media/sale/krush-pancakes.jpg", "fr": { "name": "Krush pancakes", "desc": "2 pancakes, 2 œufs au plat bio et locaux, bacon halal, sirop d'érable" }, "en": { "name": "Krush pancakes", "desc": "2 pancakes, 2 organic local fried eggs, halal bacon, maple syrup" } },
+            { "id": "korean-krush", "price": 15, "photo": "/media/sale/korean-krush.jpg", "signature": true, "fr": { "name": "Korean Krush", "desc": "Gaufre maison, guacamole, houmous de betterave, œuf au plat, poulet coréen, sauce hollandaise" }, "en": { "name": "Korean Krush", "desc": "Home-made waffle, guacamole, beetroot hummus, fried egg, Korean chicken, hollandaise" } },
+            { "id": "krush-batata", "price": 15, "photo": "/media/sale/krush-batata.jpg", "fr": { "name": "Krush batata", "desc": "Pomme de terre locale, sauce cheesy et graines de moutarde, houmous de betterave, guacamole, lardons de dinde" }, "en": { "name": "Krush batata", "desc": "Local baked potato, cheesy sauce with mustard seeds, beetroot hummus, guacamole, turkey lardons" } },
+            { "id": "mc-krush", "price": 15, "photo": "", "fr": { "name": "Mc Krush", "desc": "Bun maison, poulet pané croustillant, sauce du chef, iceberg, cheddar, galette de pomme de terre, frites twister" }, "en": { "name": "Mc Krush", "desc": "Home-made bun, crispy breaded chicken, chef's sauce, iceberg lettuce, cheddar, hash brown, twister fries" } },
+            { "id": "moroccan-style", "price": 16, "photo": "/media/sale/moroccan-style.jpg", "fr": { "name": "Moroccan style", "desc": "Bun brioché, effiloché de bœuf, oignons caramélisés, pruneaux confits, œuf au plat, pointe de cumin, amandes caramélisées" }, "en": { "name": "Moroccan style", "desc": "Brioche bun, pulled beef, caramelised onions, candied prunes, fried egg, a hint of cumin, caramelised almonds" } }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sucre",
+      "sections": [
+        {
+          "id": "plats-sucres",
+          "fr": "Brunch sucré",
+          "en": "Sweet brunch",
+          "items": [
+            { "id": "pancakes-gourmands", "price": 13, "photo": "/media/sucre/pancakes-gourmands.jpg", "formula": true, "signature": true, "meatless": true, "fr": { "name": "Pancakes gourmands", "desc": "3 pancakes, banane, éclats de chocolat, nappage chocolat ou caramel, éclats de cookie" }, "en": { "name": "Indulgent pancakes", "desc": "3 pancakes, banana, chocolate chips, chocolate or caramel topping, cookie crumble" } },
+            { "id": "cookie", "price": 10, "photo": "/media/sucre/cookie.jpg", "formula": true, "meatless": true, "fr": { "name": "Cookie à partager (ou pas)", "desc": "Pâte à cookie maison, praliné, fruits secs, servi chaud avec sa crème anglaise vanille" }, "en": { "name": "Cookie to share (or not)", "desc": "Home-made cookie dough, praline, nuts, served warm with vanilla custard" } },
+            { "id": "brioche-carrement-vanille", "price": 12, "photo": "/media/sucre/brioche-carrement-vanille.jpg", "formula": true, "meatless": true, "fr": { "name": "Brioche Carrément Vanille", "desc": "Brioche perdue, crème carrément vanille, éclats d'amandes caramélisées, framboises fraîches, crème anglaise vanille" }, "en": { "name": "Seriously Vanilla brioche", "desc": "French-toast brioche, rich vanilla cream, caramelised almond flakes, fresh raspberries, vanilla custard" } },
+            { "id": "granola", "price": 8, "photo": "/media/sucre/granola.jpg", "formula": true, "meatless": true, "fr": { "name": "Granola", "desc": "Granola maison, yaourt grec, miel, fruits rouges, banane, peanut butter" }, "en": { "name": "Granola", "desc": "Home-made granola, Greek yoghurt, honey, red berries, banana, peanut butter" } }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "boissons",
+      "sections": [
+        {
+          "id": "lattes",
+          "fr": "Nos spéciales, chaud ou froid",
+          "en": "Our specials, hot or iced",
+          "items": [
+            { "id": "latte-brownie", "price": 6, "photo": "/media/boissons/latte-brownie.jpg", "signature": true, "fr": { "name": "Latte brownie", "desc": "Lait, sauce chocolat, touche de café, dés de brownie" }, "en": { "name": "Brownie latte", "desc": "Milk, chocolate sauce, a touch of coffee, brownie bites" } },
+            { "id": "latte-vanille", "price": 6, "photo": "", "fr": { "name": "Latte vanille", "desc": "Lait, touche de café, sirop de vanille" }, "en": { "name": "Vanilla latte", "desc": "Milk, a touch of coffee, vanilla syrup" } },
+            { "id": "latte-praline", "price": 6, "photo": "", "fr": { "name": "Latte praliné", "desc": "Lait, praliné, touche de café, éclats de noisettes" }, "en": { "name": "Praline latte", "desc": "Milk, praline, a touch of coffee, hazelnut pieces" } },
+            { "id": "latte-cookie", "price": 6, "photo": "", "fr": { "name": "Latte cookie", "desc": "Lait, sauce chocolat, touche de café, éclats de cookie" }, "en": { "name": "Cookie latte", "desc": "Milk, chocolate sauce, a touch of coffee, cookie crumble" } },
+            { "id": "latte-caramel", "price": 6, "photo": "", "fr": { "name": "Latte caramel", "desc": "Lait, touche de café, caramel" }, "en": { "name": "Caramel latte", "desc": "Milk, a touch of coffee, caramel" } },
+            { "id": "latte-coco", "price": 6, "photo": "", "fr": { "name": "Latte coco", "desc": "Lait, touche de café, coco" }, "en": { "name": "Coconut latte", "desc": "Milk, a touch of coffee, coconut" } },
+            { "id": "latte-creme-brulee", "price": 6, "photo": "", "fr": { "name": "Latte crème brûlée", "desc": "Lait, touche de café, crème brûlée" }, "en": { "name": "Crème brûlée latte", "desc": "Milk, a touch of coffee, crème brûlée" } },
+            { "id": "latte-taro", "price": 6, "photo": "", "fr": { "name": "Latte taro", "desc": "Lait, touche de café, taro" }, "en": { "name": "Taro latte", "desc": "Milk, a touch of coffee, taro" } }
+          ]
+        },
+        {
+          "id": "cafes",
+          "fr": "Cafés",
+          "en": "Coffee",
+          "items": [
+            { "id": "expresso", "price": 2.5, "fr": { "name": "Expresso", "desc": "" }, "en": { "name": "Espresso", "desc": "" } },
+            { "id": "cafe-allonge", "price": 2.5, "fr": { "name": "Café allongé", "desc": "" }, "en": { "name": "Long black", "desc": "" } },
+            { "id": "double-expresso", "price": 3.5, "fr": { "name": "Double expresso", "desc": "" }, "en": { "name": "Double espresso", "desc": "" } },
+            { "id": "americano", "price": 3.5, "fr": { "name": "Americano", "desc": "" }, "en": { "name": "Americano", "desc": "" } },
+            { "id": "cortado", "price": 3.5, "fr": { "name": "Cortado", "desc": "Le petit latte" }, "en": { "name": "Cortado", "desc": "The little latte" } },
+            { "id": "latte", "price": 5, "fr": { "name": "Latte", "desc": "Le grand latte" }, "en": { "name": "Latte", "desc": "The big one" } },
+            { "id": "cappuccino", "price": 5.5, "fr": { "name": "Cappuccino", "desc": "L'équilibre" }, "en": { "name": "Cappuccino", "desc": "The balanced one" } },
+            { "id": "flat-white", "price": 4.5, "fr": { "name": "Flat white", "desc": "Le fort en café" }, "en": { "name": "Flat white", "desc": "The strong one" } }
+          ]
+        },
+        {
+          "id": "lactees",
+          "fr": "Boissons lactées",
+          "en": "Milky drinks",
+          "items": [
+            { "id": "chocolat-chaud", "price": 5, "fr": { "name": "Chocolat chaud", "desc": "" }, "en": { "name": "Hot chocolate", "desc": "" } },
+            { "id": "moccacino", "price": 5.5, "fr": { "name": "Moccacino", "desc": "" }, "en": { "name": "Moccaccino", "desc": "" } },
+            { "id": "chai-latte", "price": 5, "fr": { "name": "Chaï latte", "desc": "" }, "en": { "name": "Chai latte", "desc": "" } },
+            { "id": "matcha-latte", "price": 5, "photo": "/media/boissons/matcha-latte.jpg", "fr": { "name": "Matcha latte", "desc": "" }, "en": { "name": "Matcha latte", "desc": "" } },
+            { "id": "golden-latte", "price": 6, "fr": { "name": "Golden latte", "desc": "" }, "en": { "name": "Golden latte", "desc": "" } },
+            { "id": "ube-latte", "price": 6, "fr": { "name": "Ube latte", "desc": "" }, "en": { "name": "Ube latte", "desc": "" } },
+            { "id": "viennois", "price": 5.5, "photo": "/media/boissons/chocolat-viennois.jpg", "fr": { "name": "Café ou chocolat viennois", "desc": "" }, "en": { "name": "Viennese coffee or hot chocolate", "desc": "" } }
+          ]
+        },
+        {
+          "id": "thes",
+          "fr": "Thés verts et infusions bio",
+          "en": "Organic green teas and infusions",
+          "items": [
+            { "id": "limon-fruit", "price": 4, "fr": { "name": "Limon fruit", "desc": "Citron vert fruité" }, "en": { "name": "Limon fruit", "desc": "Fruity lime" } },
+            { "id": "marrakech", "price": 4, "fr": { "name": "Marrakech", "desc": "Menthe poivrée" }, "en": { "name": "Marrakech", "desc": "Peppermint" } },
+            { "id": "damas", "price": 4, "fr": { "name": "Damas", "desc": "Rose fruitée" }, "en": { "name": "Damascus", "desc": "Fruity rose" } },
+            { "id": "detox", "price": 5, "fr": { "name": "Détox", "desc": "Légèreté et fraîcheur" }, "en": { "name": "Detox", "desc": "Light and fresh" } },
+            { "id": "blue-earl-grey", "price": 5, "fr": { "name": "Blue earl grey", "desc": "Thé noir bergamote" }, "en": { "name": "Blue Earl Grey", "desc": "Black tea with bergamot" } },
+            { "id": "china-jasmin", "price": 5, "fr": { "name": "China jasmin", "desc": "Thé vert jasmin" }, "en": { "name": "China jasmine", "desc": "Jasmine green tea" } }
+          ]
+        },
+        {
+          "id": "fraiches",
+          "fr": "Jus et boissons fraîches",
+          "en": "Juices and cold drinks",
+          "items": [
+            { "id": "oranges-pressees", "price": 6, "fr": { "name": "Oranges pressées", "desc": "" }, "en": { "name": "Freshly squeezed orange juice", "desc": "" } },
+            { "id": "orange-pamplemousse", "price": 6, "fr": { "name": "Orange pamplemousse", "desc": "Pressés minute" }, "en": { "name": "Orange and grapefruit", "desc": "Freshly squeezed" } },
+            { "id": "citronnade", "price": 4.5, "fr": { "name": "Citronnade maison", "desc": "" }, "en": { "name": "Home-made lemonade", "desc": "" } },
+            { "id": "the-glace", "price": 4.5, "fr": { "name": "Thé glacé maison", "desc": "" }, "en": { "name": "Home-made iced tea", "desc": "" } },
+            { "id": "sodas", "price": 4, "fr": { "name": "Sodas 33 cl", "desc": "" }, "en": { "name": "Soft drinks 33 cl", "desc": "" } },
+            { "id": "evian", "price": 4, "fr": { "name": "Evian 50 cl", "desc": "" }, "en": { "name": "Evian 50 cl", "desc": "" } },
+            { "id": "san-pellegrino", "price": 4, "fr": { "name": "San Pellegrino 50 cl", "desc": "" }, "en": { "name": "San Pellegrino 50 cl", "desc": "" } }
+          ]
+        },
+        {
+          "id": "smoothies",
+          "fr": "Smoothies aux fruits",
+          "en": "Fruit smoothies",
+          "items": [
+            { "id": "red-lover", "price": 6.5, "photo": "/media/boissons/smoothie-red-lover.jpg", "signature": true, "fr": { "name": "Red lover", "desc": "Fraise, framboises, myrtilles" }, "en": { "name": "Red lover", "desc": "Strawberry, raspberries, blueberries" } },
+            { "id": "strawberry-fantasy", "price": 6.5, "fr": { "name": "Strawberry fantasy", "desc": "Fraise, banane" }, "en": { "name": "Strawberry fantasy", "desc": "Strawberry, banana" } },
+            { "id": "pineapple-sunset", "price": 6.5, "fr": { "name": "Pineapple sunset", "desc": "Ananas, papaye, mangue" }, "en": { "name": "Pineapple sunset", "desc": "Pineapple, papaya, mango" } },
+            { "id": "berry-cherry", "price": 6.5, "fr": { "name": "Berry cherry", "desc": "Cerise, banane, fraise, cassis" }, "en": { "name": "Berry cherry", "desc": "Cherry, banana, strawberry, blackcurrant" } },
+            { "id": "green-river", "price": 6.5, "fr": { "name": "Green river", "desc": "Banane, mangue, kiwi, citronnelle, chou kale" }, "en": { "name": "Green river", "desc": "Banana, mango, kiwi, lemongrass, kale" } }
+          ]
+        },
+        {
+          "id": "mocktails",
+          "fr": "Cocktails sans alcool",
+          "en": "Alcohol-free cocktails",
+          "items": [
+            { "id": "mojito", "price": 8, "fr": { "name": "Mojito", "desc": "Citron vert, menthe fraîche, sucre roux, limonade Lorina. Fraise ou passion : +1 €" }, "en": { "name": "Virgin mojito", "desc": "Lime, fresh mint, brown sugar, Lorina lemonade. Strawberry or passion fruit: +€1" } },
+            { "id": "iced-matcha-fraise", "price": 7, "signature": true, "fr": { "name": "Iced matcha fraise", "desc": "Lait, matcha, coulis de fraise" }, "en": { "name": "Iced strawberry matcha", "desc": "Milk, matcha, strawberry coulis" } },
+            { "id": "iced-matcha-mangue", "price": 7, "fr": { "name": "Iced matcha mangue", "desc": "Lait, matcha, coulis de mangue" }, "en": { "name": "Iced mango matcha", "desc": "Milk, matcha, mango coulis" } }
+          ]
+        }
+      ]
+    }
+  ]
+}

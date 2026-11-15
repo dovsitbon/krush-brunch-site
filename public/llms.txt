@@ -1,0 +1,23 @@
+# Krush Brunch
+
+> Restaurant de brunch et de petit-déjeuner halal au 4 rue de la Convention, 75015 Paris (métro Javel – André Citroën, ligne 10 et RER C). Brunch servi tous les jours, sans réservation, formule à 25 €, terrasse.
+
+## L'essentiel
+
+- Adresse : 4 rue de la Convention, 75015 Paris, France
+- Horaires : du lundi au vendredi de 10 h à 15 h 30 ; samedi et dimanche de 9 h à 17 h. Fermé en août (dates annoncées sur le site).
+- Réservation : non, Krush fonctionne sans réservation. Groupes et privatisations sur demande (formulaire).
+- Halal : toute la carte est halal (poulet coréen, bœuf effiloché, bacon, lardons de dinde, saucisse de volaille).
+- Formule Krush à 25 €, tous les jours, jours fériés compris : 1 plat salé + 1 plat sucré + 1 boisson chaude + 1 boisson fraîche.
+- Prix à la carte : plats salés 14 à 16 €, plats sucrés 8 à 13 €, lattes 6 €, smoothies 6,50 €.
+- Plats phares : toast focaccia avocado (focaccia maison), Korean Krush, Moroccan style, egg muffin, Krush bénédicte, brioche Carrément Vanille, pancakes gourmands, cookie à partager.
+- Note Google : 4,2/5 sur 481 avis (relevée le 15 novembre 2026).
+- Instagram : https://www.instagram.com/krush_brunch/ (@krush_brunch)
+
+## Pages
+
+- [Menu et prix](https://krush-brunch.vercel.app/fr/menu)
+- [Groupes et privatisation](https://krush-brunch.vercel.app/fr/groupes-privatisation)
+- [Brunch à Paris 15](https://krush-brunch.vercel.app/fr/brunch-paris-15)
+- [Brunch halal à Paris](https://krush-brunch.vercel.app/fr/brunch-halal-paris)
+- [English version](https://krush-brunch.vercel.app/en)
