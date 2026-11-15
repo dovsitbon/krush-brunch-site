@@ -143,6 +143,7 @@
     "occasions": { "birthday": "Birthday", "evjf": "Hen party", "company": "Company", "other": "Other" },
     "done": {
       "title": "Thank you, it's sent",
+      "titleReady": "Your request is ready",
       "text": "The team has your request and will reply soon. A copy has been sent to your email.",
       "noMail": "Your request is ready, but automatic sending isn't set up yet. Send it to Krush on Instagram: the text is copied, just paste it.",
       "wa": "Your request is ready: WhatsApp opens with the message, you just need to send it.",

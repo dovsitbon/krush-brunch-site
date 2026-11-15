@@ -143,6 +143,7 @@
     "occasions": { "birthday": "Anniversaire", "evjf": "EVJF", "company": "Entreprise", "other": "Autre" },
     "done": {
       "title": "Merci, c'est envoyé",
+      "titleReady": "Votre demande est prête",
       "text": "L'équipe a bien reçu votre demande et vous répond rapidement. Une copie vous a été envoyée par e-mail.",
       "noMail": "Votre demande est prête, mais l'envoi automatique n'est pas encore branché. Envoyez-la à Krush sur Instagram : le texte est copié, il suffit de le coller.",
       "wa": "Votre demande est prête : WhatsApp s'ouvre avec le message, il ne reste qu'à l'envoyer.",

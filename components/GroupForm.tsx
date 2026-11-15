@@ -97,7 +97,7 @@ export function GroupForm() {
     return (
       <div className="rounded-[28px] bg-paper p-6 md:p-10" role="status">
         <Heart className="h-8 w-8 text-violet" />
-        <h3 className="display mt-4 text-[2rem]">{d.groups.done.title}</h3>
+        <h3 className="display mt-4 text-[2rem]">{done.mode === "mail" ? d.groups.done.title : d.groups.done.titleReady}</h3>
         <p className="mt-3 max-w-xl text-muted">{done.mode === "mail" ? d.groups.done.text : done.mode === "wa" ? d.groups.done.wa : d.groups.done.noMail}</p>
         <pre className="mt-6 max-h-72 overflow-auto rounded-2xl bg-cream p-4 font-[family-name:var(--font-body)] text-[0.9375rem] whitespace-pre-wrap">{done.text}</pre>
         <div className="mt-6 flex flex-wrap gap-3">
